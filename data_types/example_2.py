@@ -13,6 +13,7 @@ print('---')
 # string indexing
 x = 'Welcome'
 print(x[3])
+print(x[2:5])
 
 print('---')
 # string slicing
